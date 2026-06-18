@@ -73,7 +73,6 @@ Learning. Building. Improving. Every Single Day.
 ## 📊 Skills Progress
 
 
-text
 HTML5          ████████████████████ 100% ✅
 
 CSS3           ████████████████████ 100% ✅
