@@ -60,3 +60,12 @@ I'm documenting my journey to become a **Full Stack Developer in 180 days**.
 ---
 
 ## 🚀 My 180-Day Journey
+
+---
+
+## 📈 180-Day Progress
+
+<img src="https://progress-bar.dev/22/?title=Day&width=500&color=2563eb"/>
+
+### Day 22 / 180 🚀
+
