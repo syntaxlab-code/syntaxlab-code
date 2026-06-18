@@ -1,6 +1,6 @@
 <h1 align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+there+👋;My+name+is+Sintia+🚀;I'm+a+Self-Taught+Developer;Future+Full+Stack+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+there+👋;My+name+is+Sintia+👩🏼‍💻;I'm+a+Self-Taught+Developer;Future+Full+Stack+Developer" />
 
 </h1>
 
@@ -63,9 +63,62 @@ I'm documenting my journey to become a **Full Stack Developer in 180 days**.
 
 ---
 
-## 📈 180-Day Progress
 
-<img src="https://progress-bar.dev/22/?title=Day&width=500&color=2563eb"/>
+---
 
-### Day 22 / 180 🚀
+## 📂 Projects I Will Build
+
+
+🌐 Landing Pages
+
+🎨 Portfolio Website
+
+🧮 Calculator App
+
+✅ To-Do App
+
+🌦 Weather App
+
+🛒 E-Commerce Website
+
+🔐 Authentication System
+
+🚀 Full Stack Applications
+
+
+---
+
+## 🎯 Current Focus
+
+
+⚡ JavaScript Fundamentals
+
+🧠 Problem Solving
+
+💻 Building Projects
+
+🔥 Becoming Full Stack Developer
+
+
+---
+
+## 🌟 My Rule
+
+
+> Consistency beats perfection.
+
+
+---
+
+## 📊 My Goal
+
+
+Build and deploy real-world Full Stack applications from scratch.
+
+
+---
+
+## 🔥 Journey
+
+
 
