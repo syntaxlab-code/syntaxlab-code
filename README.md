@@ -1,6 +1,8 @@
- # Hi there 👋
+<h1 align="center">
 
-# I'm Sintia 🚀
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+there+👋;My+name+is+Sintia+🚀;I'm+a+Self-Taught+Developer;Future+Full+Stack+Developer" />
+
+</h1>
 
 ## 👩‍💻 Self-Taught Developer | 180-Day Full Stack Journey
 
