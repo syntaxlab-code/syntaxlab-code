@@ -2,7 +2,7 @@
 
 <h1 align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=My+name+is+Sintia+🚀;Self-Taught+Developer;Future+Full+Stack+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=My+name+is+Sintia+👩🏼‍💻;Self-Taught+Developer;Future+Full+Stack+Developer" />
 
 </h1>
 
