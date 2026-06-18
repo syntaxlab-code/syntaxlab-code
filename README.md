@@ -1,124 +1,91 @@
+# Hi there 👋
+
 <h1 align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+there+👋;My+name+is+Sintia+👩🏼‍💻;I'm+a+Self-Taught+Developer;Future+Full+Stack+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=My+name+is+Sintia+🚀;Self-Taught+Developer;Future+Full+Stack+Developer" />
 
 </h1>
 
-## 👩‍💻 Self-Taught Developer | 180-Day Full Stack Journey
 
-I'm documenting my journey to become a **Full Stack Developer in 180 days**.
+<h3 align="center">
+🚀 180-Day Full Stack Developer Journey
+</h3>
+
+
+<p align="center">
+Learning. Building. Improving. Every Single Day.
+</p>
+
 
 ---
 
-## 🌱 About Me
+## 👩‍💻 About Me
 
 - 👋 My name is Sintia
-- 💻 Learning Web Development
+- 💻 Self-Taught Developer
 - 🚀 Building projects every day
-- 📚 Learning by doing
+- 📚 Learning Full Stack Development
 - 🎯 Goal: Become a Full Stack Developer
+
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-<p align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55"/>
+<p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/>
 
 </p>
 
----
-
-## 📚 Currently Learning
-
-| Technology | Status |
-|---|---|
-| HTML5 | ✅ Completed |
-| CSS3 | ✅ Completed |
-| JavaScript | 🔄 Learning |
-| React | ⏳ Coming Soon |
-| Node.js | ⏳ Coming Soon |
-| Express.js | ⏳ Coming Soon |
-| MongoDB | ⏳ Coming Soon |
-| SQL | ⏳ Coming Soon |
 
 ---
 
-## 🚀 My 180-Day Journey
-
----
+# 📈 180-Day Progress Tracker
 
 
----
+<div align="center">
 
-## 📂 Projects I Will Build
+<img src="https://progress-bar.dev/12/?title=Overall%20Progress&width=700&color=2563eb"/>
 
+<h2>
+🚀 Day 22 / 180
+</h2>
 
-🌐 Landing Pages
-
-🎨 Portfolio Website
-
-🧮 Calculator App
-
-✅ To-Do App
-
-🌦 Weather App
-
-🛒 E-Commerce Website
-
-🔐 Authentication System
-
-🚀 Full Stack Applications
+</div>
 
 
----
-
-## 🎯 Current Focus
+## 📊 Skills Progress
 
 
-⚡ JavaScript Fundamentals
+text
+HTML5          ████████████████████ 100% ✅
 
-🧠 Problem Solving
+CSS3           ████████████████████ 100% ✅
 
-💻 Building Projects
+Responsive     ███████████████░░░░░ 75% 🔄
 
-🔥 Becoming Full Stack Developer
+JavaScript     ████████░░░░░░░░░░░░ 40% 🔄
 
+Git & GitHub   ███████░░░░░░░░░░░░░ 35% 🔄
 
----
+React          ░░░░░░░░░░░░░░░░░░░░ 0% ⏳
 
-## 🌟 My Rule
+Node.js        ░░░░░░░░░░░░░░░░░░░░ 0% ⏳
 
-
-> Consistency beats perfection.
-
-
----
-
-## 📊 My Goal
-
-
-Build and deploy real-world Full Stack applications from scratch.
-
-
----
-
-## 🔥 Journey
-
-
-
+Database       ░░░░░░░░░░░░░░░░░░░░ 0% ⏳
