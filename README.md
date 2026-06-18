@@ -61,7 +61,6 @@ Learning. Building. Improving. Every Single Day.
 
 <div align="center">
 
-<img src="https://progress-bar.dev/12/?title=Overall%20Progress&width=700&color=2563eb"/>
 
 <h2>
 🚀 Day 22 / 180
@@ -70,21 +69,3 @@ Learning. Building. Improving. Every Single Day.
 </div>
 
 
-## 📊 Skills Progress
-
-
-HTML5          ████████████████████ 100% ✅
-
-CSS3           ████████████████████ 100% ✅
-
-Responsive     ███████████████░░░░░ 75% 🔄
-
-JavaScript     ████████░░░░░░░░░░░░ 40% 🔄
-
-Git & GitHub   ███████░░░░░░░░░░░░░ 35% 🔄
-
-React          ░░░░░░░░░░░░░░░░░░░░ 0% ⏳
-
-Node.js        ░░░░░░░░░░░░░░░░░░░░ 0% ⏳
-
-Database       ░░░░░░░░░░░░░░░░░░░░ 0% ⏳
